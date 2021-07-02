@@ -126,6 +126,7 @@ Click on `Enabled`
 
 1. Enter the TCP port of your Radarr instance. Default is 7878.
 1. Radarr uses the Base URL *ONLY* if used with a "Reverse Proxy" (ex: Nginx Proxy Manager or SWAG) and MUST have a leading slash if it is needed (ex: /radarr).
+  
     !!! info
 
         **If you don't use a reverse proxy or don't know what it is leave this empty !!!**
